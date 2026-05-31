@@ -3,8 +3,9 @@ title: "Concurs de eseuri analitice 2026"
 publishDate: 2026-05-15
 lead: "Academis Demo deschide primul concurs de eseuri analitice. Lucrările vor fi evaluate de un juriu format din cercetători și jurnaliști."
 status: active
+pin: true
 expires: "2026-07-30"
-tags: ["concurs", "eseuri", "2026"]
+etichete: ["concurs", "eseuri", "2026"]
 ---
 
 ## Cine poate participa

@@ -3,8 +3,9 @@ locale  = "ro-RO"
 title   = "Academis Demo"
 
 [taxonomies]
-  tag    = "tags"
-  author = "autori"
+  tag      = "tags"
+  author   = "autori"
+  eticheta = "etichete"
 
 [markup.goldmark.renderer]
   unsafe = true

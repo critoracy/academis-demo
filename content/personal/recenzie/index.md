@@ -5,13 +5,9 @@ lead: "Cel mai sincer film despre vinovăția supraviețuitorului pe care l-am v
 postKind: "review"
 reviewMeta: "Jesse Eisenberg · 2024 · dramă · 90 min"
 cover: "cover.png"
-tags: ["film", "recenzie", "2024"]
+etichete: ["film", "recenzie"]
 ---
 
-Cel mai sincer film despre vinovăția supraviețuitorului pe care l-am văzut. Eisenberg nu încearcă să rezolve nimic — filmul stă confortabil în ambiguitate.
+Cel mai sincer film despre vinovăția supraviețuitorului pe care l-am văzut. Eisenberg nu încearcă să rezolve nimic.
 
-Kieran Culkin poartă tot filmul. E genul de performanță care face ca orice scenă fără el să pară mai slabă.
-
-**Notă demo:** Această postare folosește `postKind: review` cu `reviewMeta` și o imagine cover care apare ca poster.
-
-L-aș revedea mâine.
+Kieran Culkin poartă tot filmul. L-aș revedea mâine.
