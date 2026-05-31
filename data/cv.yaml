@@ -1,0 +1,88 @@
+about: |
+  Autor demonstrativ creat pentru showcase-ul temei Academis.
+  Această pagină demonstrează layoutul CV generat din date YAML.
+
+experience:
+  - role: "Arhitect de Curriculum"
+    company: "Demo Organization SRL"
+    location: "București"
+    period: "2025 – prezent"
+    description: |
+      Proiectarea și structurarea conținutului educațional în forme coerente și progresive.
+    skills:
+      - Design curricular
+      - Gândire critică
+      - Pedagogie
+
+volunteering:
+  - role: "Instructor de Dezbateri"
+    organization: "Colegiul Demo"
+    location: "București"
+    period: "2024 – prezent"
+    description: |
+      Coordonarea programului de dezbateri academice pentru elevi de liceu.
+    skills:
+      - Comunicare publică
+      - Coordonare echipă
+
+education:
+  - institution: "Facultatea de Litere"
+    degree: "Licență"
+    field: "Filologie"
+    period: "2022 – prezent"
+    details: "Specializare în lingvistică computațională."
+  - institution: "Colegiul Demo"
+    degree: "Bacalaureat"
+    field: "Matematică-Informatică"
+    period: "2018 – 2022"
+
+skills:
+  - category: "Tehnologii"
+    items: [Hugo, Git, Linux, LaTeX, Pandoc]
+  - category: "Design"
+    items: [CSS, SVG, Figma]
+  - category: "Comunicare"
+    items: [Scriere creativă, Jurnalism digital, Documentație]
+
+languages:
+  - language: Română
+    level: Nativ
+  - language: Engleză
+    level: C1
+    writing: C1
+    speaking: C1
+    comprehension: C1
+  - language: Franceză
+    level: B1
+    writing: A2
+    speaking: B1
+    comprehension: B2
+
+networks:
+  - name: "Clubul de Dezbateri Demo"
+    url: "https://github.com/critoracy/academis-demo"
+    role: "Trainer"
+    location: "București"
+    since: 2024
+
+publications:
+  - title: "Gândirea critică în educație"
+    publisher: "Academis Demo"
+    date: 2026
+    link: "/articole/standard/"
+    type: "Articol Demo"
+    description: "Articol demonstrativ din secțiunea Articole a acestui site."
+
+certifications:
+  - title: "Hugo Certified Developer"
+    issuer: "Demo Institute"
+    date: 2026
+    description: "Certificare demonstrativă pentru showcase-ul Academis."
+
+distinctions:
+  - title: "Premiul I — Olimpiada de Argumentare Demo"
+    date: 2025
+    description: "Acordat pentru rezultate excepționale la competiția demonstrativă."
+  - title: "Mențiune Specială — Concursul de Eseuri Demo"
+    date: 2024
+    description: "Acordat pentru contribuții la educația prin dezbateri."

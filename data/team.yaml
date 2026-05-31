@@ -1,0 +1,8 @@
+members:
+  - name: demo-autor
+    display_name: "Demo Autor"
+    role: "Contributor Academis"
+    bio:
+      - "Autor demonstrativ creat pentru showcase-ul temei."
+    initial: "D"
+    active: true

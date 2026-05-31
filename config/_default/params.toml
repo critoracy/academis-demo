@@ -1,0 +1,22 @@
+[brand]
+  shortName   = "Academis"
+  longName    = "Academis Demo"
+  tagline     = "Showcase complet al temei Hugo Academis."
+  description = "Explorează toate tipurile de conținut: articole, anunțuri, feed personal, CV și cărți."
+  foundedYear = "2026"
+  licenseText = "CC BY 4.0"
+  licenseUrl  = "https://creativecommons.org/licenses/by/4.0/"
+
+authorTaxonomy = "autori"
+
+[editorial]
+  mainSections = ["articole"]
+
+[home]
+  blocks      = ["feed", "explore"]
+  feedLayout  = "grid"
+  feedHero    = true
+  feedLimit   = 3
+
+[build]
+  bundleCSS = true

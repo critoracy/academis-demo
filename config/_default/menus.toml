@@ -1,0 +1,24 @@
+[[main]]
+  name   = "Articole"
+  url    = "/articole/"
+  weight = 10
+
+[[main]]
+  name   = "Anunțuri"
+  url    = "/anunturi/"
+  weight = 20
+
+[[main]]
+  name   = "Personal"
+  url    = "/personal/"
+  weight = 30
+
+[[main]]
+  name   = "CV"
+  url    = "/cv/"
+  weight = 40
+
+[[main]]
+  name   = "Carte"
+  url    = "/carte/"
+  weight = 50

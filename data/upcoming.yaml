@@ -1,0 +1,9 @@
+enabled: true
+badge: "Urmează"
+posts:
+  - title: "Vol. II: Tehnici avansate de argumentare"
+    date: "2026-08-01"
+    section: "carte"
+  - title: "Metodologie calitativă în cercetarea istorică"
+    date: "2026-09-15"
+    section: "articole"
