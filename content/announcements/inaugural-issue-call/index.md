@@ -1,9 +1,10 @@
 ---
 title: "Inaugural Issue — Call for Submissions"
-publishDate: 2025-11-01
+date: 2025-11-01
+type: forever
 lead: "The first open call for contributions to Academis Demo. We received 34 pitches and commissioned 8 pieces. Submissions are now closed."
-status: archived
 tags: ["submissions", "archive", "2025"]
+layout: glance
 ---
 
 ## What we were looking for
