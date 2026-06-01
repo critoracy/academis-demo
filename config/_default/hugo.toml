@@ -1,11 +1,10 @@
 baseURL = "https://critoracy.github.io/academis-demo/"
-locale  = "ro-RO"
+locale  = "en-US"
 title   = "Academis Demo"
 
 [taxonomies]
-  tag      = "tags"
-  author   = "autori"
-  eticheta = "etichete"
+  tag    = "tags"
+  author = "autori"
 
 [markup.goldmark.renderer]
   unsafe = true
