@@ -1,12 +1,14 @@
 intro:
-  eyebrow: "Tema Academis"
-  title: "Conținut editorial de calitate"
-  subtitle: "Structurat, flexibil, elegant."
+  eyebrow: "Academis Theme"
+  title: "Editorial content with substance"
+  subtitle: "Structured, flexible, typographically considered."
   paragraphs:
     - >
-      Academis este o temă Hugo proiectată pentru publicații editoriale care pun accent
-      pe claritate, structură și estetică tipografică.
+      Academis is a Hugo theme designed for editorial publications that
+      prioritise clarity, argument, and long-form depth over algorithmic
+      engagement.
     - >
-      Tema susține articole lungi cu metadate academice, anunțuri cu status dinamic,
-      feed personal cu tipuri mixte de conținut, CV generat din date și cărți cu
-      navigare capitol-cu-capitol.
+      The theme supports full-length articles with academic metadata,
+      announcements with live status tracking, a personal feed with mixed
+      content kinds, a YAML-driven CV section, and serialised books with
+      chapter-by-chapter navigation.

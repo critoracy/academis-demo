@@ -1,11 +1,11 @@
 [[main]]
-  name   = "Articole"
-  url    = "/articole/"
+  name   = "Articles"
+  url    = "/articles/"
   weight = 10
 
 [[main]]
-  name   = "Anunțuri"
-  url    = "/anunturi/"
+  name   = "Announcements"
+  url    = "/announcements/"
   weight = 20
 
 [[main]]
@@ -19,6 +19,6 @@
   weight = 40
 
 [[main]]
-  name   = "Carte"
-  url    = "/carte/"
+  name   = "Book"
+  url    = "/book/"
   weight = 50

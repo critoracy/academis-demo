@@ -1,6 +1,6 @@
 ---
 title: "Personal"
-description: "Opinii, recenzii, fotografii și note de drum."
+description: "Opinions, reviews, photos, and notes. Lower stakes than the articles section."
 layout: social-feed
 cascade:
   layout: glance

@@ -1,4 +1,4 @@
 ---
 title: "Academis Demo"
-description: "Showcase complet al temei Hugo Academis."
+description: "A showcase publication built with the Academis Hugo theme."
 ---
