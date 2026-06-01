@@ -1,11 +1,13 @@
 ---
 title: "Open Call for Contributors — Summer 2026"
-publishDate: 2026-05-01
-lead: "Academis Demo is open to new contributors. We are looking for writers with strong analytical voices in history, technology, urban policy, and media criticism. Work is published under CC BY 4.0."
-status: active
+date: 2026-05-01
+type: active
+date_start: "2026-05-01"
+date_end: "2026-08-31"
 pin: true
-expires: "2026-08-31"
+lead: "Academis Demo is open to new contributors. We are looking for writers with strong analytical voices in history, technology, urban policy, and media criticism. Work is published under CC BY 4.0."
 tags: ["submissions", "contributors", "writing"]
+layout: glance
 ---
 
 ## What we are looking for
