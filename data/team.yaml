@@ -1,8 +1,27 @@
 members:
-  - name: demo-autor
-    display_name: "Demo Autor"
-    role: "Contributor Academis"
+  - name: elena-marsh
+    display_name: "Elena Marsh"
+    role: "Editor-in-Chief · Historian"
     bio:
-      - "Autor demonstrativ creat pentru showcase-ul temei."
-    initial: "D"
+      - "Elena Marsh writes on European institutional history, epistemology, and the politics of evidence. Her essays have appeared in academic journals and independent publications across the continent."
+      - "She teaches part-time at the history department of a mid-sized European university and is currently completing a book on how early-modern printing disrupted epistemic authority."
+    initial: "E"
+    active: true
+
+  - name: thomas-vance
+    display_name: "Thomas Vance"
+    role: "Contributing Editor · Technology & Cities"
+    bio:
+      - "Thomas Vance covers the intersection of urban infrastructure, data governance, and public technology. He is particularly interested in what digital systems do to civic imagination."
+      - "Before writing, he worked as a systems architect for a municipal data authority. He now splits his time between research and long-form journalism."
+    initial: "T"
+    active: true
+
+  - name: mara-quinn
+    display_name: "Mara Quinn"
+    role: "Contributing Writer · Culture & Media"
+    bio:
+      - "Mara Quinn is a media critic and essayist. She reviews books, films, and exhibitions, and writes occasionally on the economics of independent publishing."
+      - "Her criticism is guided by the conviction that how an argument is made matters as much as what it concludes."
+    initial: "M"
     active: true
