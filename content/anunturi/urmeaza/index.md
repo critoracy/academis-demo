@@ -1,9 +1,12 @@
 ---
 title: "Lansare platformă dezbateri"
-publishDate: 2026-07-01
+date: 2026-06-01
+type: active
+date_start: "2026-07-01"
+date_end: "2026-09-30"
 lead: "Secțiunea dedicată dezbaterii academice va fi disponibilă publicului larg. Resurse gratuite, ghiduri și articole de metodologie."
-status: upcoming
-etichete: ["dezbateri", "lansare"]
+tags: ["dezbateri", "lansare"]
+layout: glance
 ---
 
 ## Ce va include
