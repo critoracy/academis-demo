@@ -26,3 +26,6 @@ authorTaxonomy = "autori"
 
 [build]
   bundleCSS = true
+
+# Announcements list: items per page (active grid + forever list)
+announcementsPerPage = 4
