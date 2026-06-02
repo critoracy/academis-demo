@@ -1,7 +1,6 @@
 ---
 title: "Online Workshop: How to Read Academic Papers Without a PhD"
 date: 2026-05-20
-type: active
 date_start: "2026-05-20"
 date_end: "2026-07-10"
 lead: "A free 90-minute online session for non-specialist readers who regularly encounter academic research in their work and want practical tools for evaluating it critically."
