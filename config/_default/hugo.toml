@@ -13,18 +13,21 @@ title   = "Academis Demo"
   startLevel = 2
   endLevel   = 3
 
-# Custom JSON output format — named "json" (lowercase) to avoid collision
-# with Hugo's built-in "JSON" format. Hugo matches templates by file suffix
-# (.json.html), so list.json.html and index.json.html are used automatically.
-[outputFormats.json]
+# Register the application/json media type explicitly so Hugo can
+# resolve the .json suffix for template lookup.
+[mediaTypes."application/json"]
+  suffixes = ["json"]
+
+# Define the JSON output format referencing the registered media type.
+[outputFormats.JSON]
   mediaType      = "application/json"
   baseName       = "index"
   isPlainText    = true
   notAlternative = true
 
 [outputs]
-  home     = ["HTML", "RSS", "json"]
-  section  = ["HTML", "RSS", "json"]
+  home     = ["HTML", "RSS", "JSON"]
+  section  = ["HTML", "RSS", "JSON"]
   page     = ["HTML"]
   taxonomy = ["HTML"]
   term     = ["HTML"]
