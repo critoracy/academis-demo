@@ -1,7 +1,6 @@
 ---
 title: "Corrections Policy Published"
 date: 2026-03-01
-type: forever
 lead: "We have published a formal corrections policy covering factual errors, methodological disputes, and retraction criteria."
 tags: ["editorial", "policy", "corrections"]
 layout: glance
