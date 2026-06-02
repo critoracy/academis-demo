@@ -1,7 +1,6 @@
 ---
 title: "Editorial Board Formed — April 2026"
 date: 2026-04-01
-type: forever
 lead: "Academis Demo has established a four-person editorial board to provide oversight of commissioning decisions and to handle appeals from contributors."
 tags: ["editorial", "governance"]
 layout: glance
