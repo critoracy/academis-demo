@@ -2,7 +2,6 @@
 title: "Three things I changed my mind about this year"
 publishDate: 2026-05-05
 lead: "A mid-year inventory. Changing your mind about things is underrated as a productivity practice."
-postKind: "text"
 tags: ["opinion", "meta"]
 ---
 
