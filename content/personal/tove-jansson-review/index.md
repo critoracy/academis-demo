@@ -2,7 +2,6 @@
 title: "The Summer Book — Tove Jansson"
 publishDate: 2026-01-20
 lead: "A novel about being very old and very young at the same time, on a small island, in a summer that is not quite finite."
-postKind: "review"
 reviewMeta: "Tove Jansson · Sort of Books, 2003 (first published 1972) · 176 pp"
 cover: "cover.png"
 tags: ["books", "review", "fiction"]
