@@ -2,7 +2,6 @@
 title: "The Peripheral — William Gibson"
 publishDate: 2026-02-01
 lead: "The novel Gibson has been writing since Pattern Recognition finally arrived. It is, among other things, the most technically coherent treatment of time travel I have read."
-postKind: "review"
 reviewMeta: "William Gibson · Berkley, 2014 · 486 pp"
 cover: "cover.png"
 tags: ["books", "review", "fiction", "sci-fi"]
