@@ -13,10 +13,19 @@ title   = "Academis Demo"
   startLevel = 2
   endLevel   = 3
 
+# Required by announcements/list.json.html and layouts/index.json.html.
+# isPlainText prevents Hugo from mangling JSON through its HTML processor.
+# notAlternative keeps it out of <link rel="alternate"> tags.
+[outputFormats.JSON]
+  mediaType      = "application/json"
+  baseName       = "index"
+  isPlainText    = true
+  notAlternative = true
+
 [outputs]
-  home    = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS", "JSON"]
-  page    = ["HTML"]
+  home     = ["HTML", "RSS", "JSON"]
+  section  = ["HTML", "RSS", "JSON"]
+  page     = ["HTML"]
   taxonomy = ["HTML"]
   term     = ["HTML"]
 
