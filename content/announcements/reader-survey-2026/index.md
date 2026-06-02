@@ -1,7 +1,6 @@
 ---
 title: "Annual Reader Survey — June 2026"
 date: 2026-06-15
-type: active
 date_start: "2026-06-15"
 date_end: "2026-06-30"
 lead: "Every year we ask readers what is working, what is not, and what they wish we would publish. The survey takes about eight minutes and directly shapes our editorial priorities."
