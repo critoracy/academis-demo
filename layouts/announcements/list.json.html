@@ -1,0 +1,42 @@
+{{- /*
+  layouts/announcements/list.json.html
+  JSON index for /announcements/ — consumed by the archive toggle and search.
+
+  Required in site config (hugo.toml or config/_default/outputs.toml):
+    [outputFormats.JSON]
+    mediaType    = "application/json"
+    baseName     = "index"
+    isPlainText  = true
+    notAlternative = true
+
+    [outputs]
+    section = ["HTML", "JSON"]
+
+  Output: JSON array, one object per page, state derived from dates.
+  Fields: title, lead, url, date, date_end, date_start, tags, state.
+*/ -}}
+{{- $items := slice -}}
+{{- range .Pages.ByDate.Reverse -}}
+  {{- $end   := .Params.date_end   | default "" -}}
+  {{- $start := .Params.date_start | default "" -}}
+  {{- /* Derive state via the same cutoff logic as ann-partition.html */ -}}
+  {{- $state := "forever" -}}
+  {{- if ne $end "" -}}
+    {{- if ($end | time).Before now -}}{{- $state = "archived" -}}
+    {{- else -}}{{- $state = "active" -}}{{- end -}}
+  {{- else if and (not .Date.IsZero) (.Date.Before (now.AddDate 0 -6 0)) -}}
+    {{- $state = "archived" -}}
+  {{- end -}}
+  {{- $tags := .Params.etichete | default (.Params.tags | default slice) -}}
+  {{- $items = $items | append (dict
+    "title"      .Title
+    "lead"       (.Params.lead      | default "")
+    "url"        .RelPermalink
+    "date"       (.Date.Format      "2006-01-02")
+    "date_end"   $end
+    "date_start" $start
+    "tags"       $tags
+    "state"      $state
+  ) -}}
+{{- end -}}
+{{- $items | jsonify -}}
