@@ -3,7 +3,6 @@ title: "Why I write publicly"
 publishDate: 2026-01-01
 lead: "Writing publicly is a discipline, not a platform strategy. It forces precision in ways that private thinking does not."
 pin: true
-postKind: "text"
 tags: ["meta", "writing"]
 ---
 
