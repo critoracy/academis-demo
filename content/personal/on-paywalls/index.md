@@ -2,10 +2,10 @@
 title: "The paywall problem is a funding problem"
 type: link
 date: 2026-03-30
-url: "https://www.niemanlab.org/2024/12/the-paywall-era-is-over/"
-url_title: "The paywall era is over"
-url_domain: "niemanlab.org"
-url_desc: "After a decade of betting on subscriptions as the salvation of quality journalism, the evidence is in — and it is mixed at best."
+link_url: "https://www.niemanlab.org/2024/12/the-paywall-era-is-over/"
+link_url_title: "The paywall era is over"
+link_url_domain: "niemanlab.org"
+link_url_desc: "After a decade of betting on subscriptions as the salvation of quality journalism, the evidence is in — and it is mixed at best."
 tags: ["publishing", "media", "opinion"]
 ---
 
