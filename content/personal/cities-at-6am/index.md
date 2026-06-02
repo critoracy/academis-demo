@@ -2,7 +2,6 @@
 title: "Cities at 6am"
 publishDate: 2026-03-22
 lead: "The city before it has decided what it is today."
-postKind: "photos"
 cover: "cover.png"
 tags: ["photography", "urbanism", "travel"]
 ---
