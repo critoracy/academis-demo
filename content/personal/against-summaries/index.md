@@ -2,7 +2,6 @@
 title: "Against summaries as a reading practice"
 publishDate: 2026-02-25
 lead: "The summary is a useful tool. As a substitute for reading, it is an epistemic trap."
-postKind: "text"
 tags: ["reading", "opinion", "epistemology"]
 ---
 
