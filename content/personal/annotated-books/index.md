@@ -2,7 +2,6 @@
 title: "On reading annotated books"
 publishDate: 2026-05-20
 lead: "There is something unusually intimate about finding a book whose previous owner has marked it more heavily than you would."
-postKind: "text"
 tags: ["reading", "books"]
 ---
 
