@@ -1,7 +1,6 @@
 ---
 title: "RSS Feed Now Available"
 date: 2026-02-14
-type: forever
 lead: "Academis Demo now publishes a full-content RSS feed. Subscribe to receive every new article and announcement in your reader of choice."
 tags: ["rss", "updates", "infrastructure"]
 layout: glance
