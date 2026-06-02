@@ -13,22 +13,9 @@ title   = "Academis Demo"
   startLevel = 2
   endLevel   = 3
 
-# Custom JSON output format.
-# isPlainText = true: skip Hugo's HTML processor so JSON is not mangled.
-# notAlternative = true: omit from <link rel="alternate"> tags.
-[mediaTypes."application/json"]
-  suffixes = ["json"]
-
-[outputFormats.json]
-  name           = "json"
-  mediaType      = "application/json"
-  baseName       = "index"
-  isPlainText    = true
-  notAlternative = true
-
 [outputs]
-  home     = ["HTML", "RSS", "json"]
-  section  = ["HTML", "RSS", "json"]
+  home     = ["HTML", "RSS"]
+  section  = ["HTML", "RSS"]
   page     = ["HTML"]
   taxonomy = ["HTML"]
   term     = ["HTML"]
