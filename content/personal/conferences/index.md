@@ -2,7 +2,6 @@
 title: "Conferences are mostly a waste of time"
 publishDate: 2026-04-28
 lead: "Not all conferences. But the value is concentrated in a few hours of the programme, and you generally cannot predict in advance which hours."
-postKind: "text"
 tags: ["academia", "opinion"]
 ---
 
