@@ -2,7 +2,6 @@
 title: "Edinburgh, November"
 publishDate: 2026-11-10
 lead: "The light at 3pm in November in Edinburgh is not the light of a city planning to stay open much longer."
-postKind: "photos"
 cover: "cover.png"
 tags: ["travel", "photography"]
 ---
