@@ -2,7 +2,6 @@
 title: "Berlin street furniture, an inventory"
 publishDate: 2026-04-05
 lead: "A city that has rebuilt itself several times keeps the evidence. You can read the decades in the street furniture if you know what to look for."
-postKind: "photos"
 cover: "cover.png"
 tags: ["travel", "urbanism", "photography"]
 ---
