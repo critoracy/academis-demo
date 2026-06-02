@@ -1,7 +1,6 @@
 ---
 title: "CC BY 4.0 Licence Adopted for All Content"
 date: 2026-03-20
-type: forever
 lead: "All Academis Demo publications are now released under Creative Commons Attribution 4.0 International. Existing articles have been retroactively relicensed."
 tags: ["licence", "cc", "open-access"]
 layout: glance
