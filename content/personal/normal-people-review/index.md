@@ -2,7 +2,6 @@
 title: "Normal People — Sally Rooney"
 publishDate: 2026-03-14
 lead: "The novel is not about the romance. It is about how two people who are capable of unusual honesty with each other nonetheless consistently choose the wrong silence at the wrong moment."
-postKind: "review"
 reviewMeta: "Sally Rooney · Faber & Faber, 2018 · 288 pp"
 cover: "cover.png"
 tags: ["books", "review", "fiction"]
