@@ -2,7 +2,6 @@
 title: "Podcast fatigue is a format problem"
 publishDate: 2026-04-18
 lead: "The complaint is always about volume — too many podcasts, not enough time. But the deeper problem is that the format has been applied to content it does not suit."
-postKind: "text"
 tags: ["media", "opinion", "audio"]
 ---
 
