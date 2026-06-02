@@ -1,7 +1,6 @@
 ---
 title: "Symposium Report: Evidence in Public Discourse — February 2026"
 date: 2026-03-05
-type: forever
 lead: "A brief account of the one-day symposium held in February 2026 on the use and misuse of evidence in journalism, policy, and academic publishing."
 tags: ["event", "symposium", "evidence", "report"]
 layout: glance
