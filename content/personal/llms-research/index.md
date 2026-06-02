@@ -2,7 +2,6 @@
 title: "LLMs as research tools: a provisional verdict"
 publishDate: 2026-05-28
 lead: "After eight months of deliberate use: useful for specific things, not useful for others, and the line is not where most of the commentary assumes."
-postKind: "text"
 tags: ["technology", "research", "tools"]
 ---
 
