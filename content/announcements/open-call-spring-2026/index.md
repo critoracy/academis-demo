@@ -1,7 +1,6 @@
 ---
 title: "Open Call for Contributors — Summer 2026"
 date: 2026-05-01
-type: active
 date_start: "2026-05-01"
 date_end: "2026-08-31"
 pin: true
