@@ -2,7 +2,6 @@
 title: "The paywall problem is a funding problem"
 publishDate: 2026-03-30
 lead: "Paywalls are not a content strategy. They are a funding strategy that has content consequences."
-postKind: "text"
 tags: ["publishing", "media", "opinion"]
 ---
 
