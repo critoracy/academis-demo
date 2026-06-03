@@ -3,6 +3,8 @@ title: "Berlin street furniture, an inventory"
 type: media
 date: 2026-04-05
 tags: ["travel", "urbanism", "photography"]
+media-1-alt: "Berlin street furniture — utility box at Prenzlauer Berg"
+media-2-alt: "Drain cover with Wilhelmine-era casting mark, Berlin-Mitte"
 ---
 
 Berlin is a city that has rebuilt itself several times within living memory, and it keeps the evidence. The street furniture layers the decades without editing.
