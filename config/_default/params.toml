@@ -29,3 +29,14 @@ authorTaxonomy = "autori"
 
 # Announcements list: items per page (active grid + forever list)
 announcementsPerPage = 4
+
+# ── Global search section normalisation ──────────────────────────────────────
+# Maps internal section slugs to canonical display names.
+# Empty string = exclude from the section filter chip row.
+[search.sectionAliases]
+  articole   = "articles"
+  carte      = "book"
+  anunturi   = "announcements"
+  autori     = ""        # covered by the Authors type chip
+  search     = ""
+  cauta      = ""
