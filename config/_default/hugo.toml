@@ -14,8 +14,8 @@ title   = "Academis Demo"
   endLevel   = 3
 
 [outputs]
-  home     = ["HTML", "RSS"]
-  section  = ["HTML", "RSS"]
+  home     = ["HTML", "RSS", "JSON"]
+  section  = ["HTML", "RSS", "JSON"]
   page     = ["HTML"]
   taxonomy = ["HTML"]
   term     = ["HTML"]
