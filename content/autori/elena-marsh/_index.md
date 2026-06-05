@@ -5,5 +5,7 @@ showMetrics: true
 showCV: true
 sidebarFeeds:
   - type: upcoming
+  - type: column
+    limit: 1
   - type: tags
 ---
