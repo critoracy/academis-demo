@@ -4,8 +4,6 @@ description: "Historian, essayist, and editor-in-chief of Academis Demo. Elena w
 showMetrics: true
 showCV: true
 sidebarFeeds:
-  - type: column
-    limit: 1
   - type: tags
     limit: 6
 ---

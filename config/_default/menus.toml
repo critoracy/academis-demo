@@ -4,16 +4,11 @@
   weight = 10
 
 [[main]]
-  name   = "Feed"
-  url    = "/autori/elena-marsh/flux/"
-  weight = 20
-
-[[main]]
   name   = "Announcements"
   url    = "/announcements/"
-  weight = 30
+  weight = 20
 
 [[main]]
   name   = "Book"
   url    = "/book/"
-  weight = 40
+  weight = 30
