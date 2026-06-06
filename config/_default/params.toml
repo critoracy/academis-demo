@@ -2,7 +2,7 @@
   shortName   = "Academis"
   longName    = "Academis Demo"
   tagline     = "Knowledge. Criticism. Ideas."
-  description = "A showcase publication built with the Academis Hugo theme — essays, announcements, a personal feed, a CV section, and a serialised book."
+  description = "A showcase publication built with the Academis Hugo theme — essays, announcements, an author feed with columns and notes, a CV section, and a serialised book."
   foundedYear = "2026"
   licenseText = "CC BY 4.0"
   licenseUrl  = "https://creativecommons.org/licenses/by/4.0/"
@@ -40,3 +40,5 @@ announcementsPerPage = 4
   autori     = ""        # covered by the Authors type chip
   search     = ""
   cauta      = ""
+  personal   = ""        # legacy section, not in nav
+  flux       = ""        # author feeds aggregated under /flux/
