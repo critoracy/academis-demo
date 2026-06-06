@@ -37,6 +37,11 @@ jobs:
       - name: Pin to latest Academis experimental
         run: hugo mod get github.com/critoracy/Academis@experimental
 
+      - name: Purge build cache
+        run: |
+          rm -rf public/
+          rm -rf resources/_gen/
+
       - name: Build
         run: |
           hugo version
