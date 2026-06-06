@@ -5,7 +5,6 @@ date_start: "2025-11-01"
 date_end: "2025-12-31"
 lead: "The first open call for contributions to Academis Demo. We received 34 pitches and commissioned 8 pieces. Submissions are now closed."
 tags: ["submissions", "archive", "2025"]
-layout: glance
 ---
 
 This was the founding call that shaped the first issue of Academis Demo. We circulated it through academic networks, several editorial mailing lists, and a handful of Mastodon accounts in November 2025.

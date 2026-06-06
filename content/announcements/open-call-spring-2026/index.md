@@ -6,7 +6,6 @@ date_end: "2026-08-31"
 pin: true
 lead: "Academis Demo is open to new contributors. We are looking for writers with strong analytical voices in history, technology, urban policy, and media criticism. Work is published under CC BY 4.0."
 tags: ["submissions", "contributors", "writing"]
-layout: glance
 ---
 
 ## What we are looking for

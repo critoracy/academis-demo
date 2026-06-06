@@ -5,7 +5,6 @@ date_start: "2026-02-14"
 date_end: "2026-02-28"
 lead: "Academis Demo now publishes a full-content RSS feed. Subscribe to receive every new article and announcement in your reader of choice."
 tags: ["rss", "updates", "infrastructure"]
-layout: glance
 ---
 
 As of February 2026, the site publishes a full-content RSS feed at `/index.xml`. Every new article and announcement appears in the feed within minutes of publication.

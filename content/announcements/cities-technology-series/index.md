@@ -3,7 +3,6 @@ title: "New Series: Cities, Data, and the Public Interest"
 date: 2026-04-12
 lead: "A new editorial series exploring the intersection of urban infrastructure, digital governance, and civic imagination. The first two essays are live; three more are in preparation."
 tags: ["series", "urbanism", "technology", "governance"]
-layout: glance
 ---
 
 ## About the series
