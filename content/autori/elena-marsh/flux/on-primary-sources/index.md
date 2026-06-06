@@ -2,6 +2,7 @@
 title: "The primary source problem"
 subtitle: "Why historians distrust summaries more than anyone"
 date: 2026-03-10
+author: elena-marsh
 tags: [methodology, sources, historiography]
 params:
   postType: column

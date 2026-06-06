@@ -2,6 +2,7 @@
 title: "Writing for readers, not for the record"
 subtitle: "The clearest sign that academic prose has failed is that only academics read it"
 date: 2026-05-28
+author: elena-marsh
 tags: [writing, academic-prose, communication]
 params:
   postType: column

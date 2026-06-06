@@ -7,4 +7,7 @@ showFilterBar: true
 pagerSize: 20
 cascade:
   type: personal
+  author: elena-marsh
+  params:
+    postType: column
 ---

@@ -2,6 +2,7 @@
 title: "The credibility deficit"
 subtitle: "Institutions don't lose trust suddenly — they spend it slowly, then all at once"
 date: 2026-04-22
+author: elena-marsh
 tags: [institutions, credibility, public-trust]
 params:
   postType: column
