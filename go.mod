@@ -2,4 +2,5 @@ module github.com/critoracy/academis-demo
 
 go 1.22
 
-require github.com/critoracy/Academis v0.1.1-0.20260606123502-6cf668ccd68e
+require github.com/critoracy/Academis v0.0.0-20260606161639-85071818f71b
+
