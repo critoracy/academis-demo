@@ -5,7 +5,7 @@
 
 [[main]]
   name   = "Feed"
-  url    = "/flux/"
+  url    = "/autori/elena-marsh/flux/"
   weight = 20
 
 [[main]]
