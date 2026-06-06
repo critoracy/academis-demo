@@ -8,4 +8,5 @@ sidebarFeeds:
   - type: column
     limit: 1
   - type: tags
+    limit: 6
 ---
